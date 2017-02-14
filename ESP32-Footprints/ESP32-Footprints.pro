@@ -1,4 +1,4 @@
-update=2/14/2017 1:45:12 PM
+update=9/6/2016 4:56:26 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=C:/Users/Jon/Documents/Footprints/kicad-ESP8266-master/ESP8266
-LibName31=switches
-LibName32=ESP32-Footprints/ESP32-footprints-Shem-Lib
-LibName33=parts for controller.pretty/MCP9701T-E_TT
+LibName30=ESP32-footprints-Shem-Lib
