@@ -1,4 +1,4 @@
-update=2/8/2017 4:58:16 PM
+update=2/14/2017 11:25:28 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=C:/Users/Jon/Documents/Footprints/kicad-ESP8266-master/ESP8266
+LibName31=switches
